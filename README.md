@@ -6,5 +6,5 @@ Contém:
 - Arquivo do dataset (euro-daily-hist_1999_2020.csv);
 - Arquivo yml que contém as bibliotecas que podem ser usadas no Streamlit (environment.yml)
 
-##Linha de raciocínio do projeto
-Texto no
+## Linha de raciocínio do projeto
+[Texto no Medium](https://medium.com/@joaquimchianca/gr%C3%A1fico-valoriza%C3%A7%C3%A3o-assustadora-do-euro-em-um-ano-de-pandemia-fb331c859c42)
