@@ -12,12 +12,12 @@ Contém:
 ## Streamlit
 Caso queira rodar o Streamlit localmente, execute a seguinte linha de comando
 '''
-$ streamlit run app.py
+  $ streamlit run app.py
 '''
 Se não tiver instalado o Streamlit, é necessário criar um novo ambiente usando o Conda
 '''
-$ conda env create streamlit //criação do novo ambiente
-$ conda activate [nome do ambiente] //ativa e muda para o novo ambiente
-$ pip install streamlit
-$ streamlit hello
+  $ conda env create streamlit //criação do novo ambiente
+  $ conda activate [nome do ambiente] //ativa e muda para o novo ambiente
+  $ pip install streamlit
+  $ streamlit hello
 '''
